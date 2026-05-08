@@ -78,7 +78,7 @@ video-game-sales-analysis/
 Clone the repository:
 
 ```bash
-git clone REPOSITORY_URL
+git clone https://github.com/JoaoAlles/video-game-sales-analysis.git
 ```
 
 Install the dependencies:
